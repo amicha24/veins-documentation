@@ -1,0 +1,7 @@
+<area shape="rect" id="node1" href="org.car2x.veins.nodes.TrafficLight.html" title="Compound Module TrafficLight" alt="" coords="378,5,465,31">
+<area shape="rect" id="node2" href="org.car2x.veins.base.modules.ITrafficLightApplLayer.html" title="Module Interface ITrafficLightApplLayer" alt="" coords="5,79,155,104">
+<area shape="rect" id="node3" href="org.car2x.veins.base.modules.BaseMobility.html" title="Simple Module BaseMobility" alt="" coords="179,79,277,104">
+<area shape="rect" id="node4" href="org.car2x.veins.modules.nic.INic80211p.html" title="Module Interface INic80211p" alt="" coords="301,79,389,104">
+<area shape="rect" id="node5" href="org.car2x.veins.modules.world.traci.trafficLight.TraCITrafficLightInterface.html" title="Simple Module TraCITrafficLightInterface" alt="" coords="413,79,584,104">
+<area shape="rect" id="node6" href="org.car2x.veins.base.modules.ITrafficLightLogic.html" title="Module Interface ITrafficLightLogic" alt="" coords="608,79,731,104">
+<area shape="rect" id="node7" href="ned.IdealChannel.html" title="Channel IdealChannel" alt="" coords="755,79,853,104">

@@ -1,0 +1,9 @@
+<map id="veins::MobileHostObstacle::maybeInBounds" name="veins::MobileHostObstacle::maybeInBounds">
+<area shape="rect" id="node2" href="$classveins_1_1_mobile_host_obstacle.html#a4490b7990017ef6db049664c61fc4715" title="veins::MobileHostObstacle\l::getHostPositionOffset" alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mobile_host_obstacle.html#a601b23d9849682a3eea03a3e5bc4c704" title="veins::MobileHostObstacle\l::getLength" alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mobile_host_obstacle.html#a0887cf8f1e5f0fe2d0846b3e0c58a3cb" title="veins::MobileHostObstacle\l::getMobility" alt="" coords="232,136,411,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mobility.html#aa34127bb460764f5516cf9a284cbb8e9" title="Returns the current position at the given simulation time. " alt="" coords="253,201,389,243"/>
+<area shape="rect" id="node8" href="$classveins_1_1_mobile_host_obstacle.html#a4fa9092226ba241ce5e79b3e25f41b50" title="veins::MobileHostObstacle\l::getWidth" alt="" coords="232,267,411,308"/>
+<area shape="rect" id="node6" href="$classveins_1_1_move.html#a952629602326681f6e385824c19e527c" title="Returns the position of the Move (Host) at the specified point in time. " alt="" coords="459,209,637,235"/>
+<area shape="rect" id="node7" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality. " alt="" coords="685,201,823,243"/>
+</map>

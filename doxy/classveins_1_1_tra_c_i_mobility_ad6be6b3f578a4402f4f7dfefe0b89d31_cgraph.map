@@ -1,0 +1,5 @@
+<map id="veins::TraCIMobility::getCurrentSpeed" name="veins::TraCIMobility::getCurrentSpeed">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#af8f2b49daf85a99256bff58d1cb14cb6" title="Returns the current speed at the current simulation time. " alt="" coords="192,23,328,65"/>
+<area shape="rect" id="node3" href="$classveins_1_1_move.html#a0fb3254da258f278489ed21f0d0559e3" title="Returns the direction vector (which is unit less, because of normalization). " alt="" coords="376,5,547,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_move.html#a240e3d0de014ccc391a46b05dcfb510c" title="Returns the current speed. " alt="" coords="383,56,539,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="veins::BaseApplLayer" name="veins::BaseApplLayer">
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html" title="A very simple layer template. " alt="" coords="194,336,317,363"/>
+<area shape="rect" id="node3" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module. ..." alt="" coords="77,247,223,273"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="53,81,186,108"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_battery.html" title="Base class for any power source. " alt="" coords="123,157,257,184"/>
+<area shape="rect" id="node8" href="$classveins_1_1_passed_message.html" title="veins::PassedMessage" alt="" coords="248,247,407,273"/>
+</map>

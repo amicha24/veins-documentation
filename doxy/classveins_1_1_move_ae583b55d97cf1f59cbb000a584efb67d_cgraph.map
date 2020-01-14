@@ -1,0 +1,4 @@
+<map id="veins::Move::setDirectionByVector" name="veins::Move::setDirectionByVector">
+<area shape="rect" id="node2" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality. " alt="" coords="247,5,384,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_coord.html#a539cd73e0ed1858839cd47b90485aca5" title="Returns the square of the length of this Coords position vector. " alt="" coords="224,71,407,98"/>
+</map>

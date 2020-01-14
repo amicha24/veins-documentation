@@ -1,0 +1,21 @@
+<map id="veins::BaseMobility::handleMessage" name="veins::BaseMobility::handleMessage">
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages. " alt="" coords="189,172,325,213"/>
+<area shape="rect" id="node18" href="$classveins_1_1_base_mobility.html#a70b2b357a4cef14850cd4edd440a13a7" title="Called upon arrival of a self messages. " alt="" coords="189,340,325,381"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#aa66c98343f5a3ead6adf5a04bc9b1adb" title="Should be redefined in subclasses. " alt="" coords="382,142,535,184"/>
+<area shape="rect" id="node4" href="$classveins_1_1_move.html#a48346d2be14eeca41bdb67f896508a67" title="Returns the start position. " alt="" coords="598,208,769,235"/>
+<area shape="rect" id="node5" href="$classveins_1_1_coord.html#a6e2a6d6d22318dcac1173b4de5962d30" title="Returns a string with the value of the coordinate. " alt="" coords="839,116,965,143"/>
+<area shape="rect" id="node6" href="$classveins_1_1_move.html#a5ef4232ea4ce638ddd70227131c0050f" title="Returns information about the current state. " alt="" coords="622,259,745,286"/>
+<area shape="rect" id="node7" href="$classveins_1_1_move.html#ae583b55d97cf1f59cbb000a584efb67d" title="Sets the direction to the passed vector, which must be already normalized or the 0&#45;vector. " alt="" coords="373,25,544,66"/>
+<area shape="rect" id="node10" href="$classveins_1_1_move.html#ae7135773d10fdf52bec4e5c9a398a092" title="Sets start position (components in meters) and start time. " alt="" coords="385,91,532,118"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_mobility.html#a291eed23c07d4693a5fa4164aa80934e" title="Update the position information for this node. " alt="" coords="391,310,527,352"/>
+<area shape="rect" id="node8" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality. " alt="" coords="615,80,752,121"/>
+<area shape="rect" id="node9" href="$classveins_1_1_coord.html#a539cd73e0ed1858839cd47b90485aca5" title="Returns the square of the length of this Coords position vector. " alt="" coords="592,28,775,55"/>
+<area shape="rect" id="node12" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module. " alt="" coords="613,376,754,417"/>
+<area shape="rect" id="node14" href="$classveins_1_1_base_world_utility.html#ad67073ffe5557077cd4b96fa2138c536" title="Returns true if the world is 2&#45;dimensional. " alt="" coords="604,441,763,482"/>
+<area shape="rect" id="node15" href="$classveins_1_1_base_mobility.html#ae6263a43c7959ae008a21874dda4e622" title="Returns the height of the playground. " alt="" coords="615,506,751,548"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_mobility.html#a4385f329f6d9df7294297c98028083e2" title="Maps the passed size in pixels to an appropriate icon size tag (is). " alt="" coords="615,310,751,352"/>
+<area shape="rect" id="node13" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module. " alt="" coords="834,376,970,417"/>
+<area shape="rect" id="node16" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize. " alt="" coords="823,506,981,548"/>
+<area shape="rect" id="node19" href="$classveins_1_1_base_mobility.html#a44bb0aa81c28c6e56dd840cfe8afdc8a" title="Moves the host. " alt="" coords="391,428,527,469"/>
+<area shape="rect" id="node20" href="$classveins_1_1_move.html#a240e3d0de014ccc391a46b05dcfb510c" title="Returns the current speed. " alt="" coords="381,376,537,403"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="veins::SignalUtils::anonymous_namespace{SignalUtils::cc}::getMaxInterference" name="veins::SignalUtils::anonymous_namespace{SignalUtils::cc}::getMaxInterference">
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ae0890d174875e1a543f334165b0748c7" title="Get the power in milliwatt for the given frequency index. " alt="" coords="333,5,449,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a62a31d71f9433b16854a94fa8b623713" title="Get the absolute frequency index of first past&#45;the&#45;end data frequency. " alt="" coords="303,56,478,83"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#a94f5344ff07e386f870829b181067621" title="Get the absolute frequency index of the first data frequency. " alt="" coords="301,107,480,133"/>
+<area shape="rect" id="node5" href="$classveins_1_1_signal.html#a5c2bffe68602700de93aca6403b7e2c8" title="Get the point in time at which the signal reception ends. " alt="" coords="288,157,493,184"/>
+<area shape="rect" id="node6" href="$classveins_1_1_signal.html#ae5d8659cd386548bef59f09a535a1148" title="Get the point in time at which the signal reception starts. " alt="" coords="299,209,482,250"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#a28faf6285303ba6bec080132f959ca6f" title="Get the Spectrum this Signal is defined on. " alt="" coords="301,275,480,301"/>
+</map>

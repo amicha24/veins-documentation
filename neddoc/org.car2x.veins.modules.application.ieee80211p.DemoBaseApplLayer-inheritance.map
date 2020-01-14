@@ -1,0 +1,5 @@
+<area shape="rect" id="node1" href="org.car2x.veins.modules.application.ieee80211p.DemoBaseApplLayer.html" title="Simple Module DemoBaseApplLayer" alt="" coords="109,79,254,104">
+<area shape="rect" id="node3" href="org.car2x.veins.modules.application.traci.MyVeinsApp.html" title="Simple Module MyVeinsApp" alt="" coords="5,152,101,177">
+<area shape="rect" id="node4" href="org.car2x.veins.modules.application.traci.TraCIDemo11p.html" title="Simple Module TraCIDemo11p" alt="" coords="126,152,237,177">
+<area shape="rect" id="node5" href="org.car2x.veins.modules.application.traci.TraCIDemoRSU11p.html" title="Simple Module TraCIDemoRSU11p" alt="" coords="261,152,401,177">
+<area shape="rect" id="node2" href="org.car2x.veins.base.modules.IBaseApplLayer.html" title="Module Interface IBaseApplLayer" alt="" coords="124,5,239,31">

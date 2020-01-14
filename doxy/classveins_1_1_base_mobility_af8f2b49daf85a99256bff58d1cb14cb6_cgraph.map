@@ -1,0 +1,4 @@
+<map id="veins::BaseMobility::getCurrentSpeed" name="veins::BaseMobility::getCurrentSpeed">
+<area shape="rect" id="node2" href="$classveins_1_1_move.html#a0fb3254da258f278489ed21f0d0559e3" title="Returns the direction vector (which is unit less, because of normalization). " alt="" coords="189,5,360,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_move.html#a240e3d0de014ccc391a46b05dcfb510c" title="Returns the current speed. " alt="" coords="197,56,353,83"/>
+</map>

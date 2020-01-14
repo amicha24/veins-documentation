@@ -1,0 +1,4 @@
+<map id="veins::TraCITrafficLightInterface::getCurrentPhase" name="veins::TraCITrafficLightInterface::getCurrentPhase">
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a7a0309763a62c52ea70ac82348abb581" title="veins::TraCITrafficLight\lInterface::getCurrentLogic" alt="" coords="232,5,405,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_traffic_light_program.html#a9ebe65b2056c80ee2d27ce849e8bcc46" title="veins::TraCITrafficLight\lProgram::getLogic" alt="" coords="453,5,612,47"/>
+</map>
